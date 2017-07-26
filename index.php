@@ -254,7 +254,9 @@
                 </div>
                 <div class="checkbox">
                   <label for="">
-                    <input type="checkbox" name="terminos" checked required> Autorizo ser contactado por teléfono y correo electrónico, y seguir recibiendo información académica por parte de la Universidad
+                    <input type="checkbox" name="terminos" checked required>
+                    <a href="http://www.javeriana.edu.co/documentos/tratamiento_datos_personales.pdf" target="blank" class="link">Autorizo ser contactado por teléfono y correo electrónico, y seguir recibiendo información académica por parte de la Universidad</a>
+                    
                   </label>
                 </div>
                 <div class="form-group">

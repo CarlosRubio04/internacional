@@ -117,27 +117,19 @@
       </div>
       <div class="row">
          <div class="col-md-6 visible-md visible-lg">
-            <img src="img/mapa.png" alt="Mapa" class="img-responsive center-block">
+            <img src="img/mapa@2x.png" alt="Mapa" class="img-responsive center-block">
          </div>
          <div class="col-md-6">
-            <h4>PROYECTOS EN</h4>
-            <p>Perú, Chile, Ecuador, Panamá, República Dominicana, Costa Rica y Guatemala.</p>
-            <div class="row">
-               <div class="col-md-6">
-                  <h4>CHILE</h4>
-                  <img src="img/chile.jpg" alt="Chile" class="img-responsive">
-                  <p>
-                     Programa para profesionales en cuidado paliativo y humanización en el cuidado de la salud
-                  </p>
-               </div>
-               <div class="col-md-6">
-                  <h4>PERÚ</h4>
-                  <img src="img/perux.jpg" alt="Chile" class="img-responsive">
-                  <p>
-                     Programa Intercultural Bilingüe
-                  </p>
-               </div>
-            </div>
+            <!-- <h4>PROYECTOS EN</h4> -->
+            <ul class="country">
+               <li>Perú</li>
+               <li>Chile</li>
+               <li>Ecuador</li>
+               <li>Panamá</li>
+               <li>República Dominicana</li>
+               <li>Costa Rica</li>
+               <li>Guatemala</li>
+            </ul>
          </div>
       </div>
       <div class="row">

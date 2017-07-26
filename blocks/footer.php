@@ -13,7 +13,7 @@
 			<div class="col-md-12">
 				<p class="text-center">Pontificia Universidad Javeriana - Bogotá D.C.- Colombia - Carrera 7 No. 40 - 62 - Tel: (57 1) 3208320, extensiones 3491 – 2105 -3518</p>
 				<p class="text-center">
-					<a href="#" class="link">Tratamiento de datos personales</a> | <a href="#" class="link">Condiciones de uso y términos legales</a>
+					<a href="http://www.javeriana.edu.co/documentos/tratamiento_datos_personales.pdf" target="blank" class="link">Tratamiento de datos personales</a> | <a href="http://www.javeriana.edu.co/documentos/tratamiento_datos_personales.pdf" target="blank" class="link">Condiciones de uso y términos legales</a>
 				</p>
 			</div>
 		</div>
